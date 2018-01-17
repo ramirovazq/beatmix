@@ -1,4 +1,4 @@
-// Drum Arrays
+// Drum Arrays men
 
 const arrayvacio = () => Array(16).fill(false);
 
